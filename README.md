@@ -13,8 +13,8 @@
 </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jumman04" alt="jumman04" /></a> </p>
 <p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=jumman04" alt="jumman04" />
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jumman04&theme=github"</img>
  <img src ="https://github-stackoverflow-readme.vercel.app/?userId=19610655&theme=github"</img>
 </p>
