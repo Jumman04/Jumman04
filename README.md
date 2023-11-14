@@ -13,13 +13,12 @@
 
 - 👯 I’m looking to collaborate on [Jummania-Slider](https://github.com/Jumman04/Jummania-Slider)
 
-- 📝 I regularly write articles on [https://jummania.com/](https://jummania.com/)
 
 - 📫 How to reach me **arsharifuddinjumman04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19610655/ar-sharif-uddin-jumman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19610655/ar-sharif-uddin-jumman" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19610655/ar-sharif-uddin-jumman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19610655/ar-sharif-uddin-jumman" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ar.sharifuddinjumman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ar.sharifuddinjumman" height="30" width="40" /></a>
 </p>
 
