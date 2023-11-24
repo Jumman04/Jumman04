@@ -5,7 +5,6 @@
   <img src="https://github-stats-alpha.vercel.app/api?username=Jumman04"</img>
 
 </p>
-<p align="center">  <img src="https://metrics.lecoq.io/Jumman04"</img> </p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jumman04&label=Profile%20views&color=0e75b6&style=flat" alt="jumman04" /> 
@@ -17,18 +16,12 @@
 
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=jumman04" alt="jumman04" />
-  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jumman04&theme=github"</img>
- <img src ="https://github-stackoverflow-readme.vercel.app/?userId=19610655&theme=github"</img>
 </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jumman04&show_icons=true&locale=en&layout=compact&theme=github" alt="jumman04" /></p>
-
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=jumman04&show_icons=true&locale=en&theme=github" alt="jumman04" /></p>
-
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jumman04&theme=github" alt="jumman04" /></p>
-
+<p align="center"> 
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jumman04&show_icons=true&locale=en&layout=compact&theme=github" alt="jumman04" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jumman04&show_icons=true&locale=en&theme=github" alt="jumman04" />
+</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
