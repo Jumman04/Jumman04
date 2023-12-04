@@ -20,7 +20,7 @@
 <p align="center">
     <a href="https://leetcode.com/Jumman04/"><img width="48%" src="https://gh-readme-profile.vercel.app/api?username=Jumman04&theme=dark"></a>
     <a href="https://github.com/Jumman04"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jumman04&theme=dark&layout=compact"></a>
-  <img src="https://github-profile-trophy.vercel.app/?username=jumman04&theme=dark" alt="jumman04" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jumman04&theme=onedark" alt="jumman04" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
