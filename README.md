@@ -6,13 +6,24 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50" />
 </p>
 <br>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=jumman04&label=Profile%20views&color=0e75b6&style=flat" alt="jumman04" /> 
-<img src = "https://img.shields.io/github/followers/Jumman04?style=flat&color=blue&label=Followers&logo=github"</img>
-  <img src = "https://img.shields.io/static/v1?message=Jummania%20Slider&logo=neovim&labelColor=5d5d5d&color=57a143&label=Entrepreneur%20of"</img>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jumman04&label=Profile%20views&color=0e75b6&style=flat" alt="jumman04" />
+  <img src="https://img.shields.io/github/followers/Jumman04?style=flat&color=blue&label=Followers&logo=github" alt="Followers" />
+  
+  <a href="https://github.com/Jumman04/Jummania-Slider">
+    <img src="https://img.shields.io/static/v1?message=Jummania%20Slider&logo=neovim&labelColor=5d5d5d&color=57a143&label=Entrepreneur%20of" alt="Jummania Slider" />
+  </a>
+
+  <a href="https://github.com/Jumman04/Analogue-Watch">
+    <img src="https://img.shields.io/static/v1?message=Analogue%20Watch&logo=neovim&labelColor=5d5d5d&color=57a143&label=Entrepreneur%20of" alt="Analogue Watch" />
+  </a>
+
+  <a href="https://github.com/Jumman04/Jummania-Chess-Game">
+    <img src="https://img.shields.io/static/v1?message=Jummania%20Chess%20Game&logo=neovim&labelColor=5d5d5d&color=57a143&label=Entrepreneur%20of" alt="Jummania Chess Game" />
+  </a>
 </p>
 
 <p align="center">
